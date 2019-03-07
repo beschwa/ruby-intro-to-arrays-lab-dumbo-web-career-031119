@@ -6,15 +6,15 @@ def array_with_two_elements
   arr = [1, 2]
 end
 
-def my_first_element (arr)
+def first_element (arr)
   arr[0]
 end
 
-def my_third_element (arr)
+def third_element (arr)
   arr[2]
 end
 
-def my_last_element (arr)
+def last_element (arr)
   arr[-1]
 end
 
